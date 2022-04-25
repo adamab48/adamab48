@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo9502
-Fork on GitHub2246
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">An Embedded Systems Enthusiast and Embedded Machine Learning</h3>
 
