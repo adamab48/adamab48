@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">An Embedded Systems and Machine Learning Enthusiast</h3>
+<h3 align="center">An Embedded Systems Enthusiast</h3>
 
 - 🔭 I’m currently Studying Computer Science at **ENETCOM**
 
