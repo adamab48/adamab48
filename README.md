@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently Studying Computer Science at **ENETCOM**
 
-- 🌱 I’m currently learning **Python,C,Embedded Ecosystems,Electronics**
+- 🌱 I’m currently learning **Python,OpenStack,Cloud,Networking**
 
 - 👯 I’m looking to collaborate on **Making the World a better place**
 
 - 👨‍💻 All of my projects are available at [https://github.com/adamab48](https://github.com/adamab48)
 
-- 📫 How to reach me **adam.abichou@enetcom.u-sfax.tn**
+- 📫 How to reach me **adem.abichou@outlook.com**
 
 - ⚡ Fun fact **I may have a designer's touch**
 
