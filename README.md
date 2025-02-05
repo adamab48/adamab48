@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/adamab48](https://github.com/adamab48)
 
-- 📫 How to reach me **adem.abichou@outlook.com**
+- 📫 How to reach me **adam@abichou.tn**
 
 - ⚡ Fun fact **I may have a designer's touch**
 
